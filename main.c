@@ -1,6 +1,6 @@
 #include <kipr/botball.h>
 
-void bot_claw_open();//testing github editing
+void bot_claw_open(); //testing github editing
 void bot_claw_closed();
 int rmotor=0, lmotor=2;//ports
 
